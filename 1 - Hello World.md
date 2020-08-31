@@ -10,7 +10,7 @@ This is a tag:
 ```
 
 Tags are what we use in HTML in order to tell our web browser what kind of content something is. 
-For example, find the first p tags in the *index.html* file. Press "Run" at the top of the screen if you haven't already. 
+For example, find the first `<p>` tags in the *index.html* file. Press "Run" at the top of the screen if you haven't already. 
 
 You will notice that section 1.1 and 1.2 are almost identical, apart from the fact that 1.1 is using p tags, and 1.2 isn't. It is this distinction that is soooo important to grasp early on when learning HTML. If you don't put tags around your content, nothing will display how you want it to. 
 
